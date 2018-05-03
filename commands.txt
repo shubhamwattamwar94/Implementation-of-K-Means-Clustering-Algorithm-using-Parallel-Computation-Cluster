@@ -1,0 +1,7 @@
+To run cpp:
+
+g++ -std=c++11 data-gen.cpp -o data
+
+To run openmp:
+
+g++ main.cpp -fopenmp -lpthread
